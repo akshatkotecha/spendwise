@@ -1,0 +1,12 @@
+body { background: #f5f7fb; }
+.sw-nav { background: #4338ca; }
+.hero { background: linear-gradient(135deg, #4338ca 0%, #7c3aed 100%); }
+.step-badge {
+  width: 48px; height: 48px; border-radius: 50%;
+  background: #4338ca; color: #fff; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+}
+.stat { border-left: 4px solid #4338ca !important; }
+.btn-primary { background: #4338ca; border-color: #4338ca; }
+.btn-primary:hover { background: #3730a3; border-color: #3730a3; }
+.progress-bar { background: #4338ca; }
